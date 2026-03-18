@@ -2,15 +2,15 @@
 
 🔭 **Currently working on:** Разработка высоконагруженных микросервисов на **Go** и **Java (Spring Boot 3)**. [cite_start]Фокусируюсь на масштабируемости, gRPC, Kafka и защищенности систем.
 
-[cite_start]👯 **Looking to collaborate on:** Распределенные системы, высокопроизводительные приложения на Go/Java и инструменты автоматизации ИБ.
+👯 **Looking to collaborate on:** Распределенные системы, высокопроизводительные приложения на Go/Java и инструменты автоматизации ИБ.
 
-[cite_start]🤝 **Looking for help with:** Продвинутые паттерны Cloud-native архитектуры и глубокая настройка K8s.
+🤝 **Looking for help with:** Продвинутые паттерны Cloud-native архитектуры и глубокая настройка K8s.
 
-[cite_start]🌱 **Continuous Learning:** Активно развиваюсь в School 21 и участвую в соревнованиях на Codeforces (Rating: 1600+).
+🌱 **Continuous Learning:** Активно развиваюсь в School 21 и участвую в соревнованиях на Codeforces (Rating: 1600+).
 
-[cite_start]💬 **Ask me about:** Go, Java/Spring, проектирование API, стратегии кэширования (Redis) и участие в CTF (Crypto, Web, Reverse).
+💬 **Ask me about:** Go, Java/Spring, проектирование API, стратегии кэширования (Redis) и участие в CTF (Crypto, Web, Reverse).
 
-[cite_start]⚡ **Fun fact:** Оптимизировал ETL-процессы, сократив время выполнения с 2 часов до 40 минут и потребление памяти на 50%.
+⚡ **Fun fact:** Оптимизировал ETL-процессы, сократив время выполнения с 2 часов до 40 минут и потребление памяти на 50%.
 
 # 💻 Tech Stack:
 
