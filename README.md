@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 **Currently working on:** Разработка высоконагруженных микросервисов на **Go** и **Java (Spring Boot 3)**. [cite_start]Фокусируюсь на масштабируемости, gRPC, Kafka и защищенности систем.
+🔭 **Currently working on:** Разработка высоконагруженных микросервисов на **Go** и **Java (Spring Boot 3)**. Фокусируюсь на масштабируемости, gRPC, Kafka и защищенности систем.
 
 👯 **Looking to collaborate on:** Распределенные системы, высокопроизводительные приложения на Go/Java и инструменты автоматизации ИБ.
 
@@ -34,7 +34,7 @@
 ## 📈 Stats & Socials:
 [![GitHub fakedesyncc](https://github-readme-stats.vercel.app/api?username=fakedesyncc&show_icons=true&theme=radical)](https://github.com/fakedesyncc)
 
-[cite_start]✈️ **Telegram:** [@fakedesyncc](https://t.me/fakedesyncc)
+✈️ **Telegram:** [@fakedesyncc](https://t.me/fakedesyncc)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=fakedesyncc&icon=2&color=0)](https://visitcount.itsvg.in)
