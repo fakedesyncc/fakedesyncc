@@ -1,40 +1,132 @@
-# 💫 About Me:
+```text
+  __       _            _                                
+ / _| __ _| | _____  __| | ___  ___ _   _ _ __   ___ ___ 
+| |_ / _` | |/ / _ \/ _` |/ _ \/ __| | | | '_ \ / __/ __|
+|  _| (_| |   <  __/ (_| |  __/\__ \ |_| | | | | (_| (__ 
+|_|  \__,_|_|\_\___|\__,_|\___||___/\__, |_| |_|\___\___|
+                                    |___/                
 
-🔭 **Currently working on:** Разработка высоконагруженных микросервисов на **Go** и **Java (Spring Boot 3)**. Фокусируюсь на масштабируемости, gRPC, Kafka и защищенности систем.
+offensive security / red team / pentest / OSINT / automation
+```
 
-👯 **Looking to collaborate on:** Распределенные системы, высокопроизводительные приложения на Go/Java и инструменты автоматизации ИБ.
+<p align="center">
+  <a href="https://t.me/fakedesyncc"><img src="https://img.shields.io/badge/Telegram-@fakedesyncc-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://github.com/fakedesyncc"><img src="https://img.shields.io/badge/GitHub-fakedesyncc-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <img src="https://img.shields.io/badge/English-C1-0F766E?style=for-the-badge" alt="English C1">
+  <img src="https://img.shields.io/badge/Focus-Offensive%20Security-B91C1C?style=for-the-badge" alt="Offensive Security">
+</p>
 
-🤝 **Looking for help with:** Продвинутые паттерны Cloud-native архитектуры и глубокая настройка K8s.
+## Кто я
 
-🌱 **Continuous Learning:** Активно развиваюсь в School 21 и участвую в соревнованиях на Codeforces (Rating: 1600+).
+<table>
+  <tr>
+    <td width="50%">
+      <b>Offensive Security Engineer</b><br>
+      Пентест веб-приложений, API, инфраструктуры и cloud-native систем.
+    </td>
+    <td width="50%">
+      <b>Security Automation</b><br>
+      Пишу инструменты для OSINT, recon, сканирования, enrichment и отчетов.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <b>Red Team / CTF mindset</b><br>
+      Люблю воспроизводимые PoC, attack paths, writeups и доказательную базу.
+    </td>
+    <td width="50%">
+      <b>Backend security</b><br>
+      Понимаю, как устроены сервисы, API, очереди, БД, Kubernetes и мониторинг.
+    </td>
+  </tr>
+</table>
 
-💬 **Ask me about:** Go, Java/Spring, проектирование API, стратегии кэширования (Redis) и участие в CTF (Crypto, Web, Reverse).
+```text
+main loop: recon -> exploitability -> proof -> automation -> report -> fix
+```
 
-⚡ **Fun fact:** Оптимизировал ETL-процессы, сократив время выполнения с 2 часов до 40 минут и потребление памяти на 50%.
+## Стек
 
-# 💻 Tech Stack:
+### Offensive Security
 
-### Languages & Frameworks
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=plastic&logo=spring-boot&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite">
+  <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square&logo=owasp&logoColor=white" alt="OWASP ZAP">
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square" alt="Metasploit">
+  <img src="https://img.shields.io/badge/Nmap-214478?style=flat-square" alt="Nmap">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark">
+  <img src="https://img.shields.io/badge/SQLMap-111827?style=flat-square" alt="SQLMap">
+  <img src="https://img.shields.io/badge/Nikto-111827?style=flat-square" alt="Nikto">
+  <img src="https://img.shields.io/badge/John_the_Ripper-111827?style=flat-square" alt="John the Ripper">
+  <img src="https://img.shields.io/badge/BloodHound-8B0000?style=flat-square" alt="BloodHound">
+  <img src="https://img.shields.io/badge/Impacket-111827?style=flat-square" alt="Impacket">
+  <img src="https://img.shields.io/badge/IDA_Pro-111827?style=flat-square" alt="IDA Pro">
+</p>
 
-### Databases & Caching
-![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-%230377CC.svg?style=plastic&logo=elasticsearch&logoColor=white)
+Использую для: web/API testing, recon, exploit validation, network analysis, AD/lab attack paths, reverse engineering.
 
-### Messaging & Integration
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=plastic&logo=apachekafka) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=plastic&logo=rabbitmq&logoColor=white) ![gRPC](https://img.shields.io/badge/gRPC-5DADE2?style=plastic&logo=grpc&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=plastic&logo=graphql&logoColor=white)
+### Code and Automation
 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/C/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C/C++">
+</p>
 
-### Security & Observability
-![Vault](https://img.shields.io/badge/HashiCorp_Vault-60DEA9?style=plastic&logo=hashicorp-vault&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=plastic&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=plastic&logo=grafana&logoColor=white)
+Использую для: scanners, parsers, OSINT collectors, backend services, dashboards, PoC tooling, integration scripts.
 
----
+### Infra, Data and Monitoring
 
-## 📈 Stats & Socials:
-[![GitHub fakedesyncc](https://github-readme-stats.vercel.app/api?username=fakedesyncc&show_icons=true&theme=radical)](https://github.com/fakedesyncc)
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka">
+  <img src="https://img.shields.io/badge/ELK-005571?style=flat-square&logo=elastic&logoColor=white" alt="ELK">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus">
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
+</p>
 
-✈️ **Telegram:** [@fakedesyncc](https://t.me/fakedesyncc)
+Использую для: локальных стендов, K8s security, SIEM/log pipelines, audit logs, metrics, CI checks, reproducible environments.
 
----
-[![](https://visitcount.itsvg.in/api?id=fakedesyncc&icon=2&color=0)](https://visitcount.itsvg.in)
+## Что могу закрыть
+
+| Задача | Результат |
+| --- | --- |
+| Web/API pentest | Проверенные уязвимости, PoC, impact, risk и remediation |
+| OSINT/recon pipeline | Сбор, нормализация, enrichment, scoring, CSV/JSON/report |
+| Kubernetes audit | Ошибки RBAC, secrets, NetworkPolicies, Pod Security, audit visibility |
+| Security automation | Инструменты на Python/Go, которые сокращают ручную рутину |
+| Reverse notes | Статические артефакты, поведение бинаря, понятный risk report |
+
+## Публичные проекты
+
+| Проект | Коротко |
+| --- | --- |
+| [AudienceFlow](https://github.com/fakedesyncc/AudienceFlow) | real-time видеоаналитика: Spring, Go, Python CV, React, JavaFX, Docker |
+| [AirControl-MK](https://github.com/fakedesyncc/AirControl-MK) | webcam hand tracking, dwell-click, voice/gaze, local-first assistive tool |
+| [Telega-reversing-elf](https://github.com/fakedesyncc/Telega-reversing-elf) | reverse engineering Linux ELF, updater risks, static evidence |
+| [SAS2026-writeups](https://github.com/fakedesyncc/SAS2026-writeups) | CTF/writeups, reproducible security research |
+| [ShopFlow](https://github.com/fakedesyncc/ShopFlow) | event-driven Go backend: REST, gRPC, GraphQL, DB, queues, observability |
+
+## Сейчас в фокусе
+
+```text
+offensive tooling       OSINT collectors          K8s attack paths
+web/API bugs            detection engineering     practical writeups
+```
+
+## Контакт
+
+<p>
+  <a href="https://t.me/fakedesyncc"><img src="https://img.shields.io/badge/Telegram-@fakedesyncc-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+</p>
